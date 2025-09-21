@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { FaUser, FaEnvelope, FaComment } from "react-icons/fa";
-import avatar from '../assets/avatar.png'; // Ensure you have an avatar image in assets folder
+import avatar from '../assets/avatar.PNG'; // Ensure you have an avatar image in assets folder
 
 
 const Contact = () => {

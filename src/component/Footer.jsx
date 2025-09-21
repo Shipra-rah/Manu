@@ -9,8 +9,8 @@ import {
     FaArrowUp,
     FaCode
 } from 'react-icons/fa';
-import Manu_1 from "../assets/Manu_1.png";
-import Manu_2 from "../assets/Manu_2.png";
+import Manu_1 from "../assets/Manu_1.PNG";
+import Manu_2 from "../assets/Manu_2.PNG";
 
 const Footer = () => {
     const currentYear = new Date().getFullYear();
