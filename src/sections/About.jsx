@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import manu from '../assets/manu.png';
+import manu from '../assets/Manu.png';
 
 const About = () => {
     const [isVisible, setIsVisible] = useState(false);
