@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { FaGithub, FaLinkedin, FaTwitter, FaTerminal } from "react-icons/fa";
-import manu from '../assets/manu.png';
+import manu from "../assets/Manu.png";
 const Hero = () => {
   const [typedText, setTypedText] = useState("");
   const [currentIndex, setCurrentIndex] = useState(0);
